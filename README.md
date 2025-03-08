@@ -20,6 +20,6 @@ I am a **Data Engineer & AI/ML Practitioner** with expertise in **Generative AI,
 🔹 **Geospatial AI for Marketing** – Applied NLP & AI to analyze social media trends and optimize ad strategies.  
 
 ### **📫 Let's Connect!**  
-🔗 [LinkedIn](https://www.linkedin.com/in/dheerajkbanna) | 📧 dheerajbanna1995@gmail.com | 🌐 [Portfolio (if any)]  
+🔗 [LinkedIn](https://www.linkedin.com/in/dheerajkbanna) | 📧 dheerajbanna1995@gmail.com | 
 
 ---
