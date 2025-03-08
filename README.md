@@ -1,7 +1,3 @@
-Sure! Here’s a **concise yet impactful** introduction for your GitHub profile, based on your resume:  
-
----
-
 ### **👋 Hi, I'm Dheeraj Krishna Banna!**  
 🚀 **AI/ML Engineer | Data Scientist | Cloud Enthusiast**  
 
